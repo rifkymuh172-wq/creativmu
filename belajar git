@@ -1,43 +1,36 @@
 mulai dasar 
-Oke, saya jelaskan secara jelas dan sederhana ya 👇
+ Git
 
----
-
-### 🌀 **Git**
-
-* **Definisi:**
-  Git adalah **version control system** (sistem pengendali versi).
-* **Fungsinya:**
-
+*Definisi:
+  Git adalah version control system** (sistem pengendali versi).
+*Fungsinya:
   * Mencatat setiap perubahan pada file (misalnya kode program).
   * Bisa kembali ke versi lama (undo).
   * Bisa kerja bareng banyak orang tanpa saling menimpa pekerjaan.
-* **Sifatnya:**
+*Sifatnya:
   Git berjalan di **komputer lokal**. Jadi walaupun tanpa internet, kamu tetap bisa `git add`, `git commit`, dll.
-
 ⚡ **Analogi:**
 Git itu seperti **kamera pengawas + arsip** yang merekam setiap perubahan file di projectmu.
 
 ---
 
-### ☁️ **GitHub**
+#GitHub
 
-* **Definisi:**
-  GitHub adalah **layanan hosting online** untuk menyimpan repositori Git.
-* **Fungsinya:**
+* Definisi:
+  GitHub adalah layanan hosting online untuk menyimpan repositori Git.
+* Fungsinya:
 
   * Menyimpan repo Git di server cloud.
   * Memudahkan kolaborasi tim (pull request, issue tracker, code review).
   * Bisa dipakai sebagai portofolio publik project (biar orang lain bisa lihat atau ikut kontribusi).
-* **Sifatnya:**
-  Butuh **internet** untuk akses GitHub.
-
-⚡ **Analogi:**
+* Sifatnya:
+  Butuh internetuntuk akses GitHub.
+⚡ Analogi:
 GitHub itu seperti **toko online (marketplace)** tempat kamu pajang barang dagangan (kode) yang sudah kamu arsipkan dengan Git.
 
 ---
 
-### 🔑 Perbedaan Utama
+Perbedaan Utama
 
 | Git                                       | GitHub                                        |
 | ----------------------------------------- | --------------------------------------------- |
@@ -48,10 +41,10 @@ GitHub itu seperti **toko online (marketplace)** tempat kamu pajang barang dagan
 
 ---
 
-👉 Jadi ringkasnya:
+ Jadi ringkasnya:
 
-* **Git = alat** untuk melacak perubahan kode.
-* **GitHub = tempat online** untuk menyimpan & berbagi repo Git.
+* Git = alat untuk melacak perubahan kode.
+* GitHub = tempat online** untuk menyimpan & berbagi repo Git.
 
 ---
 
