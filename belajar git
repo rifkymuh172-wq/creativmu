@@ -1,1 +1,5 @@
 mulai dasar 
+git init 
+git add tidak menyimpan perubahan ke riwayat, hanya menandai file supaya ikut dalam commit berikutnya. → masukkan barang ke keranjang (staging area).
+git commit → bayar di kasir + dapat struk belanja (simpan perubahan ke riwayat).
+git branch -M main Fungsi utama: Mengganti nama branch utama dari default (master) menjadi main.
