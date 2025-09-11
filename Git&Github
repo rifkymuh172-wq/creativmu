@@ -1,0 +1,3 @@
+Definisi: Git adalah version control system (sistem pengendali versi).
+Fungsinya: Mencatat setiap perubahan pada file (misalnya kode program),Bisa kembali ke versi lama (undo).Bisa kerja bareng banyak orang tanpa saling menimpa pekerjaan.
+Git itu seperti kamera pengawas + arsip yang merekam setiap perubahan file di projectmu.
