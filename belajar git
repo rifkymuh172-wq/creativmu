@@ -1,4 +1,60 @@
 mulai dasar 
+Oke, saya jelaskan secara jelas dan sederhana ya 👇
+
+---
+
+### 🌀 **Git**
+
+* **Definisi:**
+  Git adalah **version control system** (sistem pengendali versi).
+* **Fungsinya:**
+
+  * Mencatat setiap perubahan pada file (misalnya kode program).
+  * Bisa kembali ke versi lama (undo).
+  * Bisa kerja bareng banyak orang tanpa saling menimpa pekerjaan.
+* **Sifatnya:**
+  Git berjalan di **komputer lokal**. Jadi walaupun tanpa internet, kamu tetap bisa `git add`, `git commit`, dll.
+
+⚡ **Analogi:**
+Git itu seperti **kamera pengawas + arsip** yang merekam setiap perubahan file di projectmu.
+
+---
+
+### ☁️ **GitHub**
+
+* **Definisi:**
+  GitHub adalah **layanan hosting online** untuk menyimpan repositori Git.
+* **Fungsinya:**
+
+  * Menyimpan repo Git di server cloud.
+  * Memudahkan kolaborasi tim (pull request, issue tracker, code review).
+  * Bisa dipakai sebagai portofolio publik project (biar orang lain bisa lihat atau ikut kontribusi).
+* **Sifatnya:**
+  Butuh **internet** untuk akses GitHub.
+
+⚡ **Analogi:**
+GitHub itu seperti **toko online (marketplace)** tempat kamu pajang barang dagangan (kode) yang sudah kamu arsipkan dengan Git.
+
+---
+
+### 🔑 Perbedaan Utama
+
+| Git                                       | GitHub                                        |
+| ----------------------------------------- | --------------------------------------------- |
+| Aplikasi (tools) untuk version control    | Layanan cloud/website untuk hosting repo Git  |
+| Bekerja lokal di komputer                 | Bekerja online di internet                    |
+| Bisa dipakai tanpa internet               | Butuh internet                                |
+| Contoh perintah: `git init`, `git commit` | Akses via browser: `github.com/username/repo` |
+
+---
+
+👉 Jadi ringkasnya:
+
+* **Git = alat** untuk melacak perubahan kode.
+* **GitHub = tempat online** untuk menyimpan & berbagi repo Git.
+
+---
+
 git init Inisialisasi repo lokal (aktifkan Git di folder).
 git add tidak menyimpan perubahan ke riwayat, hanya menandai file supaya ikut dalam commit berikutnya. → masukkan barang ke keranjang (staging area).
 git commit → bayar di kasir + dapat struk belanja (simpan perubahan ke riwayat).
