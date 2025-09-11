@@ -5,3 +5,5 @@ git commit → bayar di kasir + dapat struk belanja (simpan perubahan ke riwayat
 git branch -M main Fungsi utama: Mengganti nama branch utama dari default (master) menjadi main.
 git remote add origin https://github.com/...Menghubungkan repo lokal di komputer kamu dengan repo remote (biasanya di GitHub).
 git remote -v Cek remote yang terhubung:
+git push = upload commit dari komputer → GitHub.
+git status Lihat file apa saja yang berubah.
